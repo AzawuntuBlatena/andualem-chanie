@@ -60,7 +60,7 @@ const Hero = () => {
             Hi! I&apos;m Andulem, a junior React and React Native developer based in Addis.
           </p>
 
-          <a href="#about">
+          <a href="#projects">
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow />}
